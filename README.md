@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="[https://bishoy.brivox.tech/assets/55.jpg](https://bishoy.brivox.tech/assets/55.jpg)" alt="Amwag Blueprint Architecture" width="100%" style="border-radius: 12px; margin-bottom: 20px; border: 1px solid #30363d;" />
+  <img src="https://bishoy.brivox.tech/assets/55.jpg" alt="Amwag Blueprint Architecture" width="100%" style="border-radius: 12px; margin-bottom: 20px; border: 1px solid #30363d;" />
   
   <h1><b>[ OPERATION: AMWAG BLUEPRINT ]</b></h1>
   <p><i>Enterprise-Grade Infrastructure & Secure Microservices Blueprint</i></p>
   
-  <a href="[https://amwag.brivox.tech/Blueprint/](https://amwag.brivox.tech/Blueprint/)"><img src="[https://img.shields.io/badge/Status-LIVE_DEPLOYMENT-00b86c?style=for-the-badge](https://img.shields.io/badge/Status-LIVE_DEPLOYMENT-00b86c?style=for-the-badge)" alt="Status"/></a>
-  <img src="[https://img.shields.io/badge/Architecture-Enterprise_SaaS-0b0f14?style=for-the-badge&border=8b949e](https://img.shields.io/badge/Architecture-Enterprise_SaaS-0b0f14?style=for-the-badge&border=8b949e)" alt="Architecture"/>
+  <a href="https://amwag.brivox.tech/Blueprint/"><img src="https://img.shields.io/badge/Status-LIVE_DEPLOYMENT-00b86c?style=for-the-badge" alt="Status"/></a>
+  <img src="https://img.shields.io/badge/Architecture-Enterprise_SaaS-0b0f14?style=for-the-badge&border=8b949e" alt="Architecture"/>
   <br><br>
 </div>
 
@@ -99,15 +99,15 @@ export const config = {
 
 ## 🏆 `[ PERFORMANCE & SECURITY METRICS ]`
 <div align="center">
-  <img src="[https://img.shields.io/badge/Security_Audit-PASSED-00b86c?style=for-the-badge](https://img.shields.io/badge/Security_Audit-PASSED-00b86c?style=for-the-badge)" />
-  <img src="[https://img.shields.io/badge/Uptime-99.99%25-00b86c?style=for-the-badge](https://img.shields.io/badge/Uptime-99.99%25-00b86c?style=for-the-badge)" />
-  <img src="[https://img.shields.io/badge/Zero--Day_Resilience-VERIFIED-00b86c?style=for-the-badge](https://img.shields.io/badge/Zero--Day_Resilience-VERIFIED-00b86c?style=for-the-badge)" />
+  <img src="https://img.shields.io/badge/Security_Audit-PASSED-00b86c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Uptime-99.99%25-00b86c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zero--Day_Resilience-VERIFIED-00b86c?style=for-the-badge" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="[https://amwag.brivox.tech/Blueprint/](https://amwag.brivox.tech/Blueprint/)">
-    <img src="[https://img.shields.io/badge/INSPECT_THE_BLUEPRINT-0b0f14?style=for-the-badge&logo=vercel&logoColor=white&border=8b949e](https://img.shields.io/badge/INSPECT_THE_BLUEPRINT-0b0f14?style=for-the-badge&logo=vercel&logoColor=white&border=8b949e)" alt="Live Deploy" />
+  <a href="https://amwag.brivox.tech/Blueprint/">
+    <img src="https://img.shields.io/badge/INSPECT_THE_BLUEPRINT-0b0f14?style=for-the-badge&logo=vercel&logoColor=white&border=8b949e" alt="Live Deploy" />
   </a>
 </div>
